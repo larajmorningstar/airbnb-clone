@@ -12,7 +12,6 @@
   <p align="center">
     A airbnb clone that utilizes typescript, react, next.js, Tailwind, Prisma, MongoDB, NextAuth, AWS, Google Cloud Console, Vercel and more...
     <br />
-    <a href="https://github.com/larajmorningstar/airbnb-clone"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/larajmorningstar/airbnb-clone/issues">Report Bug</a>
