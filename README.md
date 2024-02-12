@@ -3,8 +3,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href[="https://github.com/larajmorningstar/airbnb-clone">
-  </a>
 
 
 <h3 align="center">Airbnb Clone </h3>
