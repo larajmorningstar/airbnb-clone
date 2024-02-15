@@ -1,10 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-
-
 <h3 align="center">Airbnb Clone </h3>
 
   <p align="center">
