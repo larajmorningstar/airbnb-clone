@@ -3,7 +3,7 @@
 <h3 align="center">Airbnb Clone </h3>
 
   <p align="center">
-    A airbnb clone that utilizes typescript, react, next.js, Tailwind, Prisma, MongoDB, NextAuth, AWS, Google Cloud Console, Vercel and more...
+    An airbnb clone that utilizes typescript, react, next.js, Tailwind, Prisma, MongoDB, NextAuth, AWS, Google Cloud Console, Vercel and more...
     <br />
     <br />
     <br />
@@ -89,7 +89,7 @@ Credential authentication for secure user login.
 Google and GitHub authentication for convenient access.
 
 -Image Upload:
-Utilizing Cloudinary CDN for efficient image storage and retrieval.
+I am utilizing Cloudinary CDN for efficient image storage and retrieval.
 
 -Form Handling:
 Client-side form validation and handling using react-hook-form.
@@ -109,7 +109,7 @@ Creation and deletion of properties with pricing calculation.
 
 -Advanced Search Algorithm:
 Robust search functionality by category, date range, map location, number of guests, rooms, and bathrooms.
-Filtering out properties with reservations in the desired date range.
+I am filtering out properties with reservations in the desired date range.
 
 -Favorites System
 Allowing users to save and manage favorite properties.
