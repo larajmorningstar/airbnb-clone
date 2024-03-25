@@ -3,7 +3,7 @@
 <h3 align="center">Airbnb Clone </h3>
 
   <p align="center">
-    An airbnb clone that utilizes typescript, react, next.js, Tailwind, Prisma, MongoDB, NextAuth, AWS, Google Cloud Console, Vercel and more...
+    An Airbnb clone that utilizes typescript, react, next.js, Tailwind, Prisma, MongoDB, NextAuth, AWS, Google Cloud Console, Vercel and more...
     <br />
     <br />
     <br />
