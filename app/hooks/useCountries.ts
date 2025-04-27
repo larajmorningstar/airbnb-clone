@@ -20,5 +20,4 @@ const useCountries = () => {
     getByValue
   }
 };
-
 export default useCountries;
