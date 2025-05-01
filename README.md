@@ -44,8 +44,6 @@
 ![Screenshot 2024-02-05 174400](https://github.com/larajmorningstar/airbnb-clone/assets/114085798/52535e2a-b4e8-4079-a620-c83efdbb1dbd)
 
 
-https://github.com/larajmorningstar/airbnb-clone/assets/114085798/682cdb1e-9d1d-483b-81d5-25d5b190f34d
-
 Welcome to this Airbnb Clone project, a feature-rich web application built with cutting-edge technologies to provide a seamless and immersive property booking experience. Built to have all the key features of Airbnb with an enriched front end and backend. This was a project to help develop my TaildwindCSS and React skills with TypeScript
 <h1>Technology Stack</h1>
 <h2>Frontend:</h2>
