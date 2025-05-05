@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<h3 align="center">Airbnb Clone </h3>
+<h3 align="center">Airbnb Clone</h3>
 
   <p align="center">
     An Airbnb clone that utilizes typescript, react, next.js, Tailwind, Prisma, MongoDB, NextAuth, AWS, Google Cloud Console, Vercel and more...
